@@ -9,7 +9,7 @@ This project builds an end-to-end data pipeline that collects weather, air quali
 
 ## Architecture
 
-![Medallion Architecture](diagrams/medallion_architecture.png)
+![Medallion Architecture](diagrams/medallion_architecture.drawio.png)
 
 ---
 
